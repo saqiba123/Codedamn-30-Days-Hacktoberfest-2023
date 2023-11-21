@@ -1,5 +1,5 @@
 function addTask() {
-	//js practice
+	//js new practice
 	let taskText = document.getElementById("taskInput").value;
 	if (taskText === "") return;
 
